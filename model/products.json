@@ -1,0 +1,58 @@
+[
+    {
+      "name": "duramo slides",
+      "price": 29.99,
+      "stock": 2300,
+      "featured": true,
+      "company": "addidas"  
+    },
+    {
+        "name": "benassi slides",
+        "price": 19.99,
+        "stock": 200,
+        "featured": true,
+        "company": "nike"  
+      },
+      {
+        "name": "adilette slides",
+        "price": 24.99,
+        "stock": 40,
+        "featured": true,
+        "company": "addidas"  
+      },
+      {
+        "name": "puma trainers",
+        "price": 44.99,
+        "stock": 890,
+        "featured": true,
+        "company": "puma"  
+      },
+      {
+        "name": "nike socks",
+        "price": 4.99,
+        "stock": 2000,
+        "featured": false,
+        "company": "nike"  
+      },
+      {
+        "name": "socks up",
+        "price": 39.99,
+        "stock": 23,
+        "featured": true,
+        "company": "balenciaga"  
+      },
+      {
+        "name": "triple S",
+        "price": 599.99,
+        "stock": 2300,
+        "featured": true,
+        "company": "balenciaga"  
+      },
+      {
+        "name": "retropy",
+        "price": 26.99,
+        "stock": 120,
+        "featured": false,
+        "company": "addidas"  
+      }
+]
